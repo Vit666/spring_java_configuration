@@ -1,6 +1,7 @@
 Controller
 
 import com.app.model.Something;
+import com.app.dao.SomethingDao;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.beans.factory.annotation.Autowired;
